@@ -1,6 +1,6 @@
 # Skill_cred_Project2
 PDF Analyzer: AI-Powered Chatbot for Seamless Document Interaction
-LinkedIn post link: https://www.linkedin.com/posts/om-lakshkar-a584472a8_ai-machinelearning-documentanalysis-activity-7222608029093892096-COxG?utm_source=share&utm_medium=member_desktop
+LinkedIn post link:
 Introduction
 Welcome to the PDF Analyzer project! This application leverages the power of AI to transform the way you interact with PDF documents. By using Google's Gemini Pro API and LangChain, PDF Analyzer allows users to upload PDF files and ask questions to receive precise answers. This tool is designed to help users quickly extract and understand valuable information from lengthy documents, enhancing productivity and decision-making.
 
